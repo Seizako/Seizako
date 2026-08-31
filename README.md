@@ -4,7 +4,7 @@
 
 **Étudiant MSc EPITECH (2026-2028)**
 
-📍 Paris · 🎯 **Recherche une alternance en informatique — démarrage flexible, jusqu'à août/septembre 2028, rythme 4j entreprise / 1j école**
+📍 Paris · 🎯 **Recherche une alternance en informatique — démarrage flexible, jusqu'à août 2028, rythme 4j entreprise / 1j école**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ludovic-weng.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovic-weng-b896b22ba/)
@@ -16,11 +16,11 @@
 
 ## À propos
 
-Étudiant en informatique à EPITECH (MSc), à la recherche d'une **alternance**. J'ai un intérêt particulier pour le **DevOps**, **Cloud** et **l'IA**— ce que reflètent les deux projets ci-dessous — sans m'y limiter.
+Étudiant en informatique à EPITECH (MSc), à la recherche d'une **alternance**. J'ai un intérêt particulier pour le **DevOps** et **Cloud**, ce que reflètent les deux projets ci-dessous — sans m'y limiter.
 
 J'ai construit un backend de messagerie temps réel en **Rust / Axum** (WebSocket, JWT, PostgreSQL + MongoDB), et déployé une application microservices sur **Kubernetes (GKE)** avec Traefik en reverse proxy et cAdvisor pour le monitoring.
 
-Disponible dès maintenant, pour une alternance allant jusqu'à août/septembre 2028.
+Disponible dès maintenant, pour une alternance allant jusqu'à août 2028.
 
 ---
 
@@ -79,7 +79,7 @@ Jeu de rôle inspiré d'Undertale : moteur de combat au tour par tour, dialogues
 
 <div align="center">
 
-**Ouvert à une alternance en informatique — intérêt particulier pour DevOps / Cloud / AI — démarrage flexible.**
+**Ouvert à une alternance en informatique — intérêt particulier pour DevOps / Cloud — démarrage flexible.**
 
 [Portfolio](https://ludovic-weng.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ludovic-weng-b896b22ba/) · [Email](mailto:ludovicweng@hotmail.com)
 
