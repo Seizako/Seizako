@@ -16,7 +16,7 @@
 
 ## À propos
 
-Étudiant en informatique à EPITECH (MSc), à la recherche d'une **alternance**. J'ai un intérêt particulier pour le **DevOps** et **Cloud**, ce que reflètent les deux projets ci-dessous — sans m'y limiter.
+Étudiant en informatique à EPITECH (MSc), à la recherche d'une **alternance**. J'ai un intérêt particulier pour le **DevOps** et **Cloud**, ce que reflètent les deux projets ci-dessous, sans m'y limiter.
 
 J'ai construit un backend de messagerie temps réel en **Rust / Axum** (WebSocket, JWT, PostgreSQL + MongoDB), et déployé une application microservices sur **Kubernetes (GKE)** avec Traefik en reverse proxy et cAdvisor pour le monitoring.
 
@@ -45,7 +45,7 @@ Disponible dès maintenant, pour une alternance allant jusqu'à août 2028.
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**En cours d'apprentissage** — Terraform · AWS · Jenkins
+**En cours d'apprentissage** — Terraform ; AWS ; Jenkins ; PowerBI
 
 ---
 
@@ -63,7 +63,13 @@ Déploiement d'une application de vote microservices sur **GKE**, écrit intégr
 
 `Kubernetes · GKE · Traefik · cAdvisor · PostgreSQL · Redis`
 
-### [portfolio](https://github.com/Seizako/portfolio) — site personnel bilingue
+### [exegol](https://github.com/Seizako/exegol) — write-ups sécurité offensive
+
+Recueil de write-ups réalisés dans le cadre d'un module de sécurité offensive : exploitation de machines vulnérables (CTF/TryHackMe) couvrant l'injection, le fuzzing web et le cracking. Chaque write-up suit la méthodologie complète : reconnaissance, énumération, exploitation, post-exploitation, avec correctifs proposés. Environnement de pentest via **Exegol** (plateforme Docker), connecté aux cibles en VPN.
+
+`Exegol · Nmap · Gobuster · ffuf · CyberChef`
+
+### [portfolio](https://github.com/Seizako/portfolio) — site personnel
 
 Site vitrine FR/EN, déployé en continu sur Vercel à chaque push. — [**Voir en ligne**](https://ludovic-weng.vercel.app/)
 
