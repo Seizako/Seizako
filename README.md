@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Ludovic Weng</h1>
   <p><strong>Étudiant en Master of Science (MSc) à EPITECH, 2026-2028</strong></p>
-  <p>📍 Paris - 🎯 <strong>Disponible dès maintenant pour une alternance jusqu'en août 2028, rythme 4j entreprise / 1j école</strong></p>
+  <p>📍 Île-de-France - 🎯 <strong>Disponible dès maintenant pour une alternance jusqu'en août 2028, rythme 4j entreprise / 1j école</strong></p>
   <p>
     <a href="https://ludovic-weng.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
     <a href="https://www.linkedin.com/in/ludovic-weng-b896b22ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,6 +11,8 @@
 ## À propos
  
 Étudiant en Master of Science à EPITECH, je recherche une **alternance** en **DevOps**, **support IT** ou **développement fullstack**. Mes projets nexus (fullstack) et bernstein (DevOps) reflètent ces orientations.
+ 
+J'ai construit un backend de messagerie temps réel en **Rust / Axum** (WebSocket, JWT, PostgreSQL + MongoDB), et déployé une application microservices sur **Kubernetes (GKE)** avec Traefik en reverse proxy et cAdvisor pour le monitoring.
  
 ## Stack
  
