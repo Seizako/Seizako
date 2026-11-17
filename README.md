@@ -1,24 +1,16 @@
 <div align="center">
-# Ludovic Weng
- 
-**Étudiant en Master of Science (MSc) à EPITECH, 2026-2028**
- 
-📍 Paris - 🎯 **Disponible dès maintenant pour une alternance jusqu'en août 2028, rythme 4j entreprise / 1j école**
- 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ludovic-weng.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovic-weng-b896b22ba/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ludovicweng@hotmail.com)
- 
+  <h1>Ludovic Weng</h1>
+  <p><strong>Étudiant en Master of Science (MSc) à EPITECH, 2026-2028</strong></p>
+  <p>📍 Paris - 🎯 <strong>Disponible dès maintenant pour une alternance jusqu'en août 2028, rythme 4j entreprise / 1j école</strong></p>
+  <p>
+    <a href="https://ludovic-weng.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/ludovic-weng-b896b22ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:ludovicweng@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  </p>
 </div>
----
- 
 ## À propos
  
 Étudiant en Master of Science à EPITECH, je recherche une **alternance** en **DevOps**, **support IT** ou **développement fullstack**. Mes projets nexus (fullstack) et bernstein (DevOps) reflètent ces orientations.
- 
-J'ai construit un backend de messagerie temps réel en **Rust / Axum** (WebSocket, JWT, PostgreSQL + MongoDB), et déployé une application microservices sur **Kubernetes (GKE)** avec Traefik en reverse proxy et cAdvisor pour le monitoring.
- 
----
  
 ## Stack
  
@@ -39,7 +31,6 @@ J'ai construit un backend de messagerie temps réel en **Rust / Axum** (WebSocke
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
----
  
 ## Projets
  
@@ -73,11 +64,8 @@ Jeu de rôle inspiré d'Undertale : moteur de combat au tour par tour, dialogues
  
 `Java - LibGDX`
  
----
- 
 <div align="center">
-**Disponible dès maintenant pour une alternance en DevOps, support IT ou développement fullstack.**
- 
-[Portfolio](https://ludovic-weng.vercel.app/) - [LinkedIn](https://www.linkedin.com/in/ludovic-weng-b896b22ba/) - [Email](mailto:ludovicweng@hotmail.com)
- 
+  <p><strong>Disponible dès maintenant pour une alternance en DevOps, support IT ou développement fullstack.</strong></p>
+  <p><a href="https://ludovic-weng.vercel.app/">Portfolio</a> - <a href="https://www.linkedin.com/in/ludovic-weng-b896b22ba/">LinkedIn</a> - <a href="mailto:ludovicweng@hotmail.com">Email</a></p>
 </div>
+ 
